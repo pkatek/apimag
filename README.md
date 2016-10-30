@@ -47,3 +47,5 @@ Zmiana w master
 Wracamy do hotfix
 
 zmianaxzmiana yyyasdasd
+
+Zmiana !
