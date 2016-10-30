@@ -43,3 +43,4 @@ ccc
 KOlejna zmiana
 
 Merge do master
+Zmiana w master
