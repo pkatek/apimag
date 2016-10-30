@@ -46,4 +46,4 @@ Merge do master
 Zmiana w master
 Wracamy do hotfix
 
-zmianaxzmiana yyy
+zmianaxzmiana yyyasdasd
