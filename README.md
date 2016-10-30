@@ -43,3 +43,5 @@ ccc
 KOlejna zmiana
 
 Merge do master
+Zmiana w master
+Wracamy do hotfix
