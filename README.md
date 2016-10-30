@@ -41,3 +41,5 @@ xxxYYYxxx
 test x
 ccc
 KOlejna zmiana
+
+Merge do master
