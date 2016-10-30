@@ -32,4 +32,6 @@ Some setup you must do manually if you haven't yet:
   5. You can copy Devise views (for customization) to your app by running:
 
        rails g devise:views
+TEst git checkout -b hotfix-1.2.1 master XYX
 
+xxxYYYxxx
