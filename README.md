@@ -46,6 +46,10 @@ Merge do master
 Zmiana w master
 Wracamy do hotfix
 
+<<<<<<< HEAD
 zmianaxzmiana yyyasdasd
 
 Zmiana !
+=======
+zmianaxzmiana yyy
+>>>>>>> parent of 765c490... Bumped version number to 1.3
