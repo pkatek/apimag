@@ -1,7 +1,7 @@
 # apimag
 
 
-Some setup you must do manually if you haven't yet:
+Some setup you must do manually if you haven't yet: OMG WFT?! 
 
   1. Ensure you have defined default url options in your environments files. Here
      is an example of default_url_options appropriate for a development environment
